@@ -31,9 +31,11 @@
 <body>
 
 <nav>
-  <a href="#">Inicio</a>
-  <a href="#">Acerca de</a>
-  <a href="#">Contacto</a>
+ 
+  <a href="index.html">Inicio</a>
+  <a href="about.html">Acerca de</a>
+  <a href="contact.html">Contacto</a>
+
 </nav>
 
 <h1 style="text-align:center;">Bienvenida a mi página 💖</h1>
